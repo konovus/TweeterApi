@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TwitterAPI</string>
+    <string name="API_KEY">XSRWBSmFFtPq2u4QRdiE3xopa</string>
+    <string name="API_SECRET_KEY">WyJI6oWGzxrKgbApkFO9sxefb7ijHatyXX7XpsNikor3cIAdWp</string>
+    <string name="BEARER_TOKEN">AAAAAAAAAAAAAAAAAAAAALMZIgEAAAAA%2FM7F9FBaF6U2%2FseaPbGc3hHoZO4%3D5NgknjghzzTR27uACY2mjKZp9D47w5wVIKO3GRq3fpB9vqHSap</string>
+    <string name="ACCESS_TOKEN">1315209546827264000-HelRQW9RvRJ7NQUTdKtryp1TbSbY73</string>
+    <string name="ACCESS_TOKEN_SECRET">cpxe9ZSPnPeGBBmw9T8TdleSykmTTGMrPD1dBIzu9JuhL</string>
+</resources>

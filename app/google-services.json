@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "317146969528",
+    "firebase_url": "https://twitterapi-aa4c5.firebaseio.com",
+    "project_id": "twitterapi-aa4c5",
+    "storage_bucket": "twitterapi-aa4c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317146969528:android:2c43aca8e89e42fffb8b4d",
+        "android_client_info": {
+          "package_name": "com.konovus.twitterapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317146969528-f26t7ni6mvn2f6h7mue18p62magk7v48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkIq-GqmGYz-3Wxg7DhFIunenLJ4mzNsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317146969528-f26t7ni6mvn2f6h7mue18p62magk7v48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
